@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body {
+  height: 100% !important;
+}
+
+html {
+  height: 100% !important;
+}
+
+.main-name {
+  font-weight: 570;
+  margin-top: 12% !important;
+  margin-left: 8% !important;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px !important;
+  letter-spacing: 1px !important;
+  color: #B5E5F1 !important;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  color: #B5E5F1 !important;
+  margin-left: 8% !important;
+  letter-spacing: 2px !important;
+}
+
+.image {
+  background-image: url('27059.jpg');
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  height: 100% !important;
+}
+
+.bg {
+  background-color: #E8E8E8 !important;
+  opacity: 0.5 !important;
+}
+
+.nav-link {
+  color: #302F2F !important;
+  font-size: 20px !important;
+  letter-spacing: 3px !important;
+}
+
+.nav-link:hover {
+  color: black !important;
+  font-size: 25px !important;
+  letter-spacing: 3px !important;
+}
+
+.btn {
+  border-color: white !important;
+  color: white !important;
+  margin-left: 31.1% !important;
+  margin-top: 1.8% !important;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.btn:hover {
+  font-family: 'Source Code Pro', monospace;
+  border-color: #000f22 !important;
+  color: white !important;
+  background-color: #000f22 !important;
+  margin-left: 31.1% !important;
+  margin-top: 1.8% !important;
+}
